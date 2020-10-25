@@ -1,0 +1,12 @@
+a {
+  @apply no-underline;
+}
+
+a:hover {
+  @apply underline;
+}
+
+/* see https://github.com/alpinejs/alpine#x-cloak */
+[x-cloak] {
+  display: none;
+}
