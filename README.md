@@ -1,4 +1,4 @@
-![](https://github.com/overheadhunter/hexenhaus/workflows/GitHub%20Pages/badge.svg?branch=main)
+![](https://github.com/overheadhunter/hexenhaus/workflows/GitHub%20Pages/badge.svg?branch=develop)
 
 # Usage
 ## Requirements
