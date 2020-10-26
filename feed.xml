@@ -3,15 +3,15 @@
   <channel>
     <title>Hexen.haus Blog</title>
     <description>Neueste Beiträge auf www.hexen.haus</description>
-    <link>https://overheadhunter.github.io/hexenhaus/</link>
+    <link>https://www.hexen.haus/</link>
     <language>de</language>
-    <atom:link href="https://overheadhunter.github.io/hexenhaus/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.hexen.haus/blog/feed.xml" rel="self" type="application/rss+xml" />
     <image>
-      <url>https://overheadhunter.github.io/img/logo.png</url>
+      <url>https://www.hexen.haus/img/logo.png</url>
       <title>Hexen.haus Blog</title>
-      <link>https://overheadhunter.github.io/hexenhaus/</link>
+      <link>https://www.hexen.haus/</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2020 21:55:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2020 07:06:21 +0000</lastBuildDate>
     <generator>Hugo</generator>
     
   </channel>
