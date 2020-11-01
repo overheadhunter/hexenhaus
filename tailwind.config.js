@@ -15,6 +15,11 @@ module.exports = {
       center: true,
       padding: '1rem',
     },
+    aspectRatio: {
+      none: 0,
+      square: [1, 1],
+      "16/9": [16, 9],
+    },
     extend: {
       colors: {
         'primary': '#133a24',
@@ -36,8 +41,14 @@ module.exports = {
       'lg': { 'min': '1280px' },
     },
   },
-  variants: {},
   future: {
     removeDeprecatedGapUtilities: true,
   },
+  variants: {
+    aspectRatio: ['responsive']
+  },
+  plugins: [
+      require("tailwindcss-responsive-embed"),
+      require("tailwindcss-aspect-ratio"),
+  ]
 }

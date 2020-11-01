@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.1" baseProfile="full"
+    width="500" height="500"
+    viewBox="0 0 1000 1000">
+    <title>Hexenhaus Logo</title>
+    <desc>A walking hut with a cat looking out its Window.</desc>
+    <metadata id="license">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:schema="http://schema.org/">
+            <cc:Work rdf:about="" cc:attributionName="Sebastian Stenzel" cc:attributionURL="https://hexen.haus">
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+            </cc:Work>
+            <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+                <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+                <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+
+    <g style="fill:transparent; stroke-width:20; stroke:#fff">
+        <!-- house -->
+        <path d="M100 300 L130 800 L860 800 L900 300 L500 100 Z"/>
+        <path d="M60 320 L500 100 L940 320" style="stroke-width:30"/>
+        <path d="M300 200 L300 150 L220 150 L220 240 Z"/>
+
+        <!-- window -->
+        <path d="M350 650 L650 650 L680 330 L330 390 Z" style="stroke-width:20; stroke:#fff"/>
+
+        <!-- foot 1 -->
+        <line x1="350" y1="800" x2="300" y2="900"/>
+        <line x1="280" y1="890" x2="380" y2="940" style="stroke-linecap: round; stroke-width:40; "/>
+
+        <!-- foot 2 -->
+        <line x1="650" y1="800" x2="700" y2="900"/>
+        <line x1="680" y1="910" x2="780" y2="860" style="stroke-linecap: round; stroke-width:40; "/>
+    </g>
+
+    <g style="fill:#fff;">
+        <!-- cat -->
+        <path d="M430 650 L570 650 C610 500, 390 500, 440 650"/>
+        <path d="M500 550
+        C440 530, 420 510, 440 460
+        L445 430 L470 450
+        Q500 440, 530 450
+        L555 430 L560 460
+        C580 510, 560 530, 500 550"/>
+        <path d="M510 490 q0 -20, +30 -15 q0 15, -30 15" style="fill:#fff"/>
+        <path d="M490 490 q0 -20, -30 -15 q0 15, +30 15" style="fill:#fff"/>
+        <path d="M500 500 L510 500 L500 510 L490 500" style="fill:#fff"/>
+        <ellipse cx="525" cy="480" rx="5" ry="10"/>
+        <ellipse cx="475" cy="480" rx="5" ry="10"/>
+        <path d="M500 510 Q500 530, 525 515" style="stroke-width:2; stroke:#fff"/>
+        <path d="M500 510 Q500 530, 475 515" style="stroke-width:2; stroke:#fff"/>
+        <path d="M450 640 Q380 610, 410 550 S430 510, 390 490" style="fill:transparent; stroke-width:30; stroke:#fff; stroke-linecap: round"/>
+    </g>
+
+    <g style="fill: transparent; stroke-width: 10; stroke: #fff;">
+        <!-- smoke -->
+        <path d="M250 120 q-10 -40, -60 -10 t -90 -10"/>
+        <path d="M200 130 q-30 +30, -90 10 t -90 -20"/>
+    </g>
+
+</svg>
