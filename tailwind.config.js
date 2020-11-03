@@ -40,6 +40,19 @@ module.exports = {
       'md': { 'min': '768px' },
       'lg': { 'min': '1280px' },
     },
+    typography: {
+      default: {
+        css: {
+          color: '#3c2323',
+          a: {
+            textDecoration: 'underline',
+            '&:hover': {
+              color: '#005E71',
+            },
+          },
+        },
+      },
+    },
   },
   future: {
     removeDeprecatedGapUtilities: true,
@@ -50,5 +63,6 @@ module.exports = {
   plugins: [
       require("tailwindcss-responsive-embed"),
       require("tailwindcss-aspect-ratio"),
+      require("@tailwindcss/typography"),
   ]
 }
