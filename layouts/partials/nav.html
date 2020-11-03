@@ -5,7 +5,50 @@
 <nav class="w-full text-{{ $textColor }} text-xl lg:px-8 bg-opacity-50 {{ $backgroundColor }} {{ $navPos }} shadow">
   <div class="flex justify-between items-stretch w-full">
     <a class="flex items-center hover:no-underline py-2 mx-2 lg:ml-0" href="{{ .Site.BaseURL }}/">
-      <img src="/img/logo_white_trans.svg" class="h-8 mr-2" alt="Hexenhaus Logo"/>
+      <svg class="h-8 mr-2"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          version="1.1" baseProfile="full"
+          viewBox="0 0 1000 1000">
+
+          <g style="fill:transparent; stroke-width:20; stroke:currentColor">
+              <!-- house -->
+              <path d="M100 300 L130 800 L860 800 L900 300 L500 100 Z"/>
+              <path d="M60 320 L500 100 L940 320" style="stroke-width:30"/>
+              <path d="M300 200 L300 150 L220 150 L220 240 Z"/>
+
+              <!-- window -->
+              <path d="M350 650 L650 650 L680 330 L330 390 Z"/>
+
+              <!-- foot 1 -->
+              <line x1="350" y1="800" x2="300" y2="900"/>
+              <line x1="280" y1="890" x2="380" y2="940" style="stroke-linecap:round; stroke-width:40"/>
+
+              <!-- foot 2 -->
+              <line x1="650" y1="800" x2="700" y2="900"/>
+              <line x1="680" y1="910" x2="780" y2="860" style="stroke-linecap:round; stroke-width:40"/>
+          </g>
+
+          <g style="fill:currentColor">
+              <!-- cat -->
+              <path d="M430 650 L570 650 C610 500, 390 500, 440 650"/>
+              <path d="M500 550
+              C440 530, 420 510, 440 460
+              L445 430 L470 450
+              Q500 440, 530 450
+              L555 430 L560 460
+              C580 510, 560 530, 500 550"/>
+              <path d="M450 640 Q380 610, 410 550 S430 510, 390 490" style="fill:transparent; stroke-width:30; stroke:currentColor; stroke-linecap:round"/>
+          </g>
+
+          <g style="fill:transparent; stroke-width:10; stroke:currentColor">
+              <!-- smoke -->
+              <path d="M250 120 q-10 -40, -60 -10 t -90 -10"/>
+              <path d="M200 130 q-30 +30, -90 10 t -90 -20"/>
+          </g>
+
+      </svg>
+
       <span class="font-headline font-bold text-2xl">Home</span>
     </a>
 
