@@ -2,6 +2,7 @@
 title: "Über uns"
 ---
 
+<!--
 Wer sind wir und was treibt uns um?
 
 ## Chrissi
@@ -13,3 +14,5 @@ Gemeinsam mit anderen aktiven Leuten kann ich mir gut vorstellen, einen Regional
 ### Motivation
 
 Mit dem Leben auf kleinem Raum beschäftigen wir uns seit mittlerweile eineinhalb Jahren. Klein Wohnen bedeutet für uns, ökologischer leben zu können. Für ein kleines Haus müssen weniger Rohstoffe verbraucht werden und diese Einsparung können wir in ökologische Baumaterialien investieren. Auch ökonomische Vorteile verbinden wir mit Tiny Houses. Wir möchten weg von der monatlichen Mietbelastung und davon, viel Geld für das Wohnen und Leben ausgeben zu müssen. Wichtig ist uns, Zeit zu haben für Dinge und Projekte, die uns erfüllen und unserem Leben einen Sinn geben.
+
+-->
