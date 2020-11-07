@@ -1,5 +1,6 @@
 ---
 title: "Grundstück"
+bannerset: "grundstueck"
 ---
 
 ## Welche Arten von Grundstücken sind für uns geeignet?

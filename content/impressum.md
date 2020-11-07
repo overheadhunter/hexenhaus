@@ -1,5 +1,6 @@
 ---
 title: "Impressum"
+bannerset: "generic"
 ---
 
 Sebastian Stenzel  

@@ -1,5 +1,6 @@
 ---
 title: "Kontakt"
+bannerset: "kontakt"
 ---
 
 ## Schickt uns eine Nachricht

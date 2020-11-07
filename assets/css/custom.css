@@ -6,6 +6,10 @@ a:hover {
   @apply underline;
 }
 
+.text-shadow {
+  text-shadow: 0 0.08em 0.1em rgba(0,0,0,0.9);
+}
+
 /* see https://github.com/alpinejs/alpine#x-cloak */
 [x-cloak] {
   display: none;
