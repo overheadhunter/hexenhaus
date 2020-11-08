@@ -4,12 +4,14 @@ bannerset: "grundstueck"
 ---
 
 ## Welche Arten von Grundstücken sind für uns geeignet?
-Alle Grundstücke, auf denen laut Flächennutzungsplan eine Bebauung möglich ist. Da wir die Häuser dauerhaft bewohnen möchten, kommen Freizeitgrundstücke oder sonstige Flächen im Außenbereich nicht in Frage.
+Alle Grundstücke, auf denen laut Flächen­nutzungs­plan eine Bebauung möglich ist. Da wir die Häuser dauerhaft bewohnen möchten, kommen Freizeit­grundstücke oder sonstige Flächen im Außenbereich nicht in Frage.
  
 ## Wie ist das Nutzungsrecht geregelt?
-In Frage kommen für uns der Kauf, die Pacht oder das Mieten eines Grundstückes. Da wir unser Haus bewusst transportabel bauen, um in Zukunft damit auch umziehen zu können, benötigen wir also kein Grundstück auf Lebenszeit. Pachten oder Mieten ist daher eine willkommene Option für uns.
+In Frage kommen für uns der Kauf, die Pacht oder das Mieten eines Grund­stückes. Da wir unser Haus bewusst transportabel bauen, um in Zukunft damit auch umziehen zu können, benötigen wir also kein Grundstück auf Lebens­zeit. Pachten oder Mieten ist daher eine willkommene Option für uns.
 Da das Aufstellen der Häuschen das Grundstück kaum verändert, kann Grundstück unversehrt wieder zurückgegeben werden.
  
 ## Wo sind wir auf der Suche?
-im Pfälzerwald: in der Region Ramberg, Dernbach, Eußerthal, Völkersweiler, Wernersberg
-entlang der Weinstraße: zwischen Klingenmünster und Grünstadt
+Derzeit haben wir unseren Lebensmittelpunkt in Landau und würden auch gerne in der Umgebung bleiben, darüber hinaus kommen aber auch andere Orte in der Pfalz in Frage, unter anderem:
+
+* im Pfälzerwald: in der Region Ramberg, Dernbach, Eußerthal, Völkersweiler, Wernersberg
+* entlang der Weinstraße: zwischen Klingenmünster und Grünstadt

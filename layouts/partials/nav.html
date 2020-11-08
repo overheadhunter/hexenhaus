@@ -72,9 +72,10 @@
     
           {{- with .Site.GetPage "/ueber-uns" }}
           {{- $borderColor := cond (hasPrefix $currentRelPermalink .RelPermalink) "current" "transparent" }}
+          <!--
           <li class="flex items-center lg:mx-2 border-b-2 border-{{ $borderColor }} hover:border-current">
             <a class="p-2 hover:no-underline" href="{{ .RelPermalink }}">{{ .Title }}</a>
-          </li>
+          </li>-->
           {{- end }}
     
           {{- with .Site.GetPage "/kontakt" }}
