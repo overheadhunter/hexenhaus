@@ -4,17 +4,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ .Title }}</title>
-    <!--
-      <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ i18n "site_meta_description" }}{{ end }}"/>
-      <meta property="og:title" content="{{ if not .IsHome }}Hexen.haus - {{ end }}{{ .Title }}"/>
-      <meta property="og:type" content="website" />
-      <meta property="og:url" content="{{ .Permalink }}"/>
-      <meta property="og:site_name" content="{{ .Site.Title }}"/>
-      <meta property="og:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ i18n "site_meta_description" }}{{ end }}"/>
-      <meta property="og:image" content="{{ "/img/og-image.png" | absURL }}">
-      <meta property="og:image:width" content="1200"/>
-      <meta property="og:image:height" content="630"/>
-    -->
+    <meta name="description" content="Chrissi und Basti sind auf der Suche nach einem Grundstück für ihre kleinen Holzhäuschen."/>
+    <meta property="og:title" content="Häuschen suchen ein Zuhause"/>
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ .Permalink }}"/>
+    <meta property="og:site_name" content="hexen.haus"/>
+    <meta property="og:description" content="Chrissi und Basti sind auf der Suche nach einem Grundstück für ihre kleinen Holzhäuschen."/>
+    <meta property="og:image" content="{{ "/img/logo_circle.png" | absURL }}">
+    <meta property="og:image:width" content="600"/>
+    <meta property="og:image:height" content="600"/>
     {{ if .Site.IsServer }}
       {{ $css := resources.Get "css/main.css" | postCSS }}
       <link rel="stylesheet" href="{{ $css.RelPermalink }}" media="screen" />
