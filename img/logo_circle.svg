@@ -3,7 +3,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink"
     version="1.1" baseProfile="full"
     width="500" height="500"
-    viewBox="-0 -0 1100 1100">
+    viewBox="0 0 1000 1000">
     <title>Hexenhaus Logo</title>
     <desc>A walking hut with a cat looking out its Window.</desc>
     <metadata id="license">
@@ -40,6 +40,12 @@
         <!-- foot 2 -->
         <line x1="650" y1="800" x2="700" y2="900"/>
         <line x1="680" y1="910" x2="780" y2="860" style="stroke-linecap: round; stroke-width:40; "/>
+    </g>
+
+    <g style="fill: transparent; stroke-width: 10; stroke: #000;">
+        <!-- smoke -->
+        <path d="M250 120 q-10 -40, -60 -10 t -90 -10"/>
+        <path d="M200 130 q-30 +30, -90 10 t -90 -20"/>
     </g>
 
     <g style="fill:#000;">
