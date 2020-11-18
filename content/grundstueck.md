@@ -8,7 +8,8 @@ Alle Grundstücke, auf denen laut Flächen­nutzungs­plan eine Bebauung möglic
  
 ## Wie ist das Nutzungsrecht geregelt?
 In Frage kommen für uns der Kauf, die Pacht oder das Mieten eines Grund­stückes. Da wir unser Haus bewusst transportabel bauen, um in Zukunft damit auch umziehen zu können, benötigen wir also kein Grundstück auf Lebens­zeit. Pachten oder Mieten ist daher eine willkommene Option für uns.
-Da das Aufstellen der Häuschen das Grundstück kaum verändert, kann Grundstück unversehrt wieder zurückgegeben werden.
+
+Das Aufstellen der Häuschen verändert das Grundstück kaum. Wir möchten keine Fläche versiegeln, daher haben wir uns für Schraubfundamente entschieden, auf denen die Häuser stehen. Die Fundamente werden einfach in den Boden geschraubt und beim Umzug wieder entfernt. Das Grundstück geben wir also unversehrt wieder zurück.
  
 ## Wo sind wir auf der Suche?
 Derzeit haben wir unseren Lebensmittelpunkt in Landau und würden auch gerne in der Umgebung bleiben, darüber hinaus kommen aber auch andere Orte in der Pfalz in Frage, unter anderem:
